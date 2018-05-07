@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quotes
+title: ɅVICII ◢◤ Quotes
 permalink: /quotes/
 ---
 
