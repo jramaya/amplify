@@ -24,7 +24,7 @@ twitter_username: avicii
 github_username:  jekyll
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-113299413-4"
 
 # Build settings
 markdown: kramdown
