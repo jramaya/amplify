@@ -84,19 +84,7 @@ permalink: /music/
 
 2015 - Street Player (Avicii Remix) <amp-youtube data-videoid="Yrim0al5yIU" layout="responsive" width="480" height="270"></amp-youtube>
 
-2016 - We Burn <amp-youtube data-videoid="BjKPmyMX4DE?t=7m31s" layout="responsive" width="480" height="270"></amp-youtube>
-
-2016 - All My Life <amp-youtube data-videoid="BjKPmyMX4DE?t=11m9s" layout="responsive" width="480" height="270"></amp-youtube>
-
-2016 - Can’t Get Enough <amp-youtube data-videoid="BjKPmyMX4DE?t=13m40s" layout="responsive" width="480" height="270"></amp-youtube>
-
-2016 - Forever Yours (1st) <amp-youtube data-videoid="BjKPmyMX4DE?t=15m12s" layout="responsive" width="480" height="270"></amp-youtube>
-
 2016 - Forever Yorus (2nd) <amp-youtube data-videoid="yiN8Qnr5CI4" layout="responsive" width="480" height="270"></amp-youtube>
-
-2016 - Unbreakable <amp-youtube data-videoid="BjKPmyMX4DE?t=23m38s" layout="responsive" width="480" height="270"></amp-youtube>
-
-2016 - Our Love <amp-youtube data-videoid="BjKPmyMX4DE?t=18m1s" layout="responsive" width="480" height="270"></amp-youtube>
 
 2016 - All I Need <amp-youtube data-videoid="vux6JblfRs4" layout="responsive" width="480" height="270"></amp-youtube>
 
