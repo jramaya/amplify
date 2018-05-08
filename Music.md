@@ -4,6 +4,15 @@ title: Music
 permalink: /music/
 ---
 
+* Please support the artist by acquiring original products
+
+* True
+<a href="https://amzn.to/2HYp5dB"><amp-img width="300" height="300" layout="responsive" src="/assets/images/true.jpg"></amp-img></a>
+
+* Stories
+<a href="https://amzn.to/2HWuJg8"><amp-img width="300" height="300" layout="responsive" src="/assets/images/stories.jpg"></amp-img></a>
+
+
 2010 - Abow <amp-youtube data-videoid="k70xgKiOFLU" layout="responsive" width="480" height="270"></amp-youtube>
 
 2010 - Make My Heart (Avicii Remix) <amp-youtube data-videoid="LiMn-3hCNGM" layout="responsive" width="480" height="270"></amp-youtube>
